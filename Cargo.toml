@@ -48,7 +48,7 @@ matches = "0.1.9"
 num-integer = "0.1.45"
 num-traits = "0.2.15"
 platforms = "3.0.1"
-prettytable-rs = "0.9.0"
+prettytable-rs = "0.10.0"
 prometheus = "0.13.2"
 quick-xml = { version = "0.25.0", features = [ "serialize" ] }
 rayon = "1.5.3"
