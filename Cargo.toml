@@ -62,7 +62,7 @@ serde-xml-rs = "0.6.0"
 shellexpand = "2.1.2"
 textwrap = "0.15.1"
 uuid = { version = "1.2.0", features = ["v4"] }
-xml-rs = "0.8.4"
+xml-rs = "0.8.14"
 yaml-merge-keys = { version = "0.5.1", features = ["serde_yaml"] }
 
 # Pin rust_decimal version since it's not stable enough yet
